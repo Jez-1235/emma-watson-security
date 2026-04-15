@@ -37,4 +37,4 @@ Users interact with a button (e.g., **Install Now**) that opens their email clie
 - Click on the action button (e.g., Install Now)  
 - Send the pre-filled email request  
 
-## THIS PROJECT IS FOR PRIVATE USE ONLY
+## THIS PROJECT IS FOR EDUCATIONAL USE ONLY
